@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m James — a Transition Year student at Castleknock College with a strong interest in science, technology, and entrepreneurship. I enjoy finding creative ways to solve problems in my free time, whether that’s building medical devices, developing iOS apps in Swift, designing websites, or working with electronics and CAD.
 
+Currently working on producing a Standalone blood glucose alert and visualisation device for Type 1 Diabetics (see [/GlucoBit](https://github.com/jdharcourt/glucobit) for more).
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jdharcourt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:james.harcourt@2028.castleknockcollege.ie) 
