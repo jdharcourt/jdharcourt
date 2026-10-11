@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m James — a Transition Year student at Castleknock College with a strong interest in science, technology, and entrepreneurship. I enjoy finding creative ways to solve problems in my free time, whether that’s building medical devices, developing iOS apps in Swift, designing websites, or working with electronics and CAD.
+Hi, I’m James, a Transition Year student at Castleknock College with a strong interest in science, technology, and entrepreneurship. I enjoy finding creative ways to solve problems in my free time, whether that’s building medical devices, developing iOS apps in Swift, designing websites, or working with electronics and CAD.
 
 Currently working on producing a Standalone blood glucose alert and visualisation device for Type 1 Diabetics (see [/GlucoBit](https://github.com/jdharcourt/glucobit) for more).
 
