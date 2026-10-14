@@ -2,7 +2,7 @@
 To whoever has unfortunately stumbled across my realm of the internet, I’m James, a 5th Year student at Castleknock College with a strong interest in science, technology, and entrepreneurship. I enjoy finding creative ways to solve problems in my free time, whether that’s building medical devices, building management solutions (exciting stuff), developing iOS apps, designing websites, or working with electronics and CAD. I work across all parts of tech, and love absolutely everything to do with it.
 
 
-Currently working on a smart, all-in-one AI powered building management solution for existing buildings, using our own models to optimise energy and improve user comfort. See more at our beautiful landing page - ![equilibrium.ie](https://www.equilibrium.ie) 
+Currently working on a smart, all-in-one AI powered building management solution for existing buildings, using our own models to optimise energy and improve user comfort. See more at our beautiful landing page - equilibrium.ie
 
 
 # My stuff:
