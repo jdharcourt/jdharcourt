@@ -1,5 +1,5 @@
 # Me i guess:
-To whoever has unfortunately stumbled acros my realm of the internet, I’m James, a 5th Year student at Castleknock College with a strong interest in science, technology, and entrepreneurship. I enjoy finding creative ways to solve problems in my free time, whether that’s building medical devices, building management solutions (exciting stuff), developing iOS apps, designing websites, or working with electronics and CAD. I work across all parts of tech, and love absoulty everything to do with it.
+To whoever has unfortunately stumbled across my realm of the internet, I’m James, a 5th Year student at Castleknock College with a strong interest in science, technology, and entrepreneurship. I enjoy finding creative ways to solve problems in my free time, whether that’s building medical devices, building management solutions (exciting stuff), developing iOS apps, designing websites, or working with electronics and CAD. I work across all parts of tech, and love absolutely everything to do with it.
 
 
 
